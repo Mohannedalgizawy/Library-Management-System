@@ -1,4 +1,4 @@
-In this project, you'll implement a Library Management System using Java,
+In this project, you'll implement a Library Management System using c++,
 emphasizing fundamental OOP principles and Data structure. The aim is
 to provide a seamless console interface for users to interact with books,
 authors, and library operations.
